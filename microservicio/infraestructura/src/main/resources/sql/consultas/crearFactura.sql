@@ -1,0 +1,1 @@
+insert into factura (placa_fk,fecha_ingreso) values (:placaFk,CURRENT_DATE)

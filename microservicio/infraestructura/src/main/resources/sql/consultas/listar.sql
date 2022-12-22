@@ -1,0 +1,2 @@
+select placa,identificacion,telefono_contacto
+from vehiculo

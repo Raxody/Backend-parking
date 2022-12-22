@@ -1,0 +1,1 @@
+select id_factura, fecha_ingreso, cant_dias, valor, placa_fk from factura order by id_factura
